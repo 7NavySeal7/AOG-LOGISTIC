@@ -1,0 +1,48 @@
+/*Estilos para la barra de navegacion*/
+.back-transparent {
+    background-color:transparent!important;
+}
+
+.back-transparent-static {
+    background-color:transparent!important;
+}
+
+.scrolled {
+    background-color: #18468d!important;
+}
+
+.menu-item a {
+    color: white!important;
+    font-weight: bold!important;
+}
+
+.menu-item a:hover {
+    color: #FF6F0E!important;
+}
+
+.fa-whatsapp {
+    color: white!important;
+}
+
+.fa-whatsapp:hover {
+    color: #FF6F0E!important;
+}
+
+/*Estilos de contenedor*/
+@media (max-width: 1024px){
+    .back-transparent {
+        background-color:#18468d!important;
+    }
+
+    .back-transparent-static {
+        background-color:#18468d!important;
+    }
+
+    .premium-toggle-text {
+        color: white!important;
+    }
+
+    .fa-bars {
+        color: white!important;
+    }
+}

@@ -1,4 +1,8 @@
 /*Estilos para la barra de navegacion*/
+.background-color {
+    background-color: #18468d!important;
+}
+
 .back-transparent {
     background-color:transparent!important;
 }
